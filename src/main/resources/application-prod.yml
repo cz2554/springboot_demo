@@ -1,0 +1,8 @@
+server:
+  port: 8081
+cupSize: B
+age: 18
+context: "cupSize:${cupSize},age:${age}"
+girl:
+  cupSize: F
+  age: 18
